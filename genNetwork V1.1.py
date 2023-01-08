@@ -3,7 +3,7 @@ import string
 import os
 import time
 from pystyle import *
-from pystyle import Colorate, Colors, System, Center, Write, Anime #Merci Billy de proposer du bon contenue
+from pystyle import Colorate, Colors, System, Center, Write, Anime #bv Billy
 LICNECE = """
 discord.gg/bap  ||  2022  ||  https://github.com/cxkalebg
 """
